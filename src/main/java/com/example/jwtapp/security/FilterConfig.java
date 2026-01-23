@@ -1,4 +1,4 @@
-package com.example.jwtapp;
+package com.example.jwtapp.security;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
