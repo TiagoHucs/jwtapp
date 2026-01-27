@@ -34,6 +34,13 @@
 		<artifactId>spring-boot-starter-web</artifactId>
 	</dependency>
 
+	<!-- 🌱 Spring apenas o crypto -->
+	<dependency>
+		<groupId>org.springframework.security</groupId>
+		<artifactId>spring-security-crypto</artifactId>
+		<version>5.8.5</version>
+	</dependency>
+
 	<!-- 🔐 JWT -->
 	<dependency>
 		<groupId>io.jsonwebtoken</groupId>
